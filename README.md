@@ -9,8 +9,14 @@
 - [Shell Scripting parte 1: scripts de automação de tarefas](https://cursos.alura.com.br/course/shellscripting)
 
 ## 2. DSA
+- [Fundamentos de Engenharia de Dados](https://www.datascienceacademy.com.br/course/fundamentos-de-engenharia-de-dados)
+- [Microsoft Power BI Para Business Intelligence e Data Science](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-business-intelligence-e-data-science)
+- [Sistema Operacional Linux, Docker, e Kubernetes](https://www.datascienceacademy.com.br/course/modulos-extras-de-capacitacao-profissional)
+- [Governança de Dados](https://www.datascienceacademy.com.br/course/modulos-extras-de-capacitacao-profissional)
+- [Web Scraping e Análise de Dados](https://www.datascienceacademy.com.br/course/modulos-extras-de-capacitacao-profissional)
 **Em Andamento**
 - [Fundamentos de Linguagem Python Para Análise de Dados e Data Science (Com ChatGPT)](https://www.datascienceacademy.com.br/course/fundamentos-de-linguagem-python-para-analise-de-dados-e-data-science)
+- [Design e Implementação de Data Warehouses](https://www.datascienceacademy.com.br/course/design-e-implementacao-de-data-warehouses)
 
 ## 3. Udemy
 - [Fundamentos da Liderança e como fazer Gestão de Pessoas](https://www.udemy.com/course/lideranca-e-gestao-de-pessoas/)
